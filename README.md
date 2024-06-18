@@ -15,7 +15,10 @@ Wbsite: https://edu-connect-kappa.vercel.app/
     ├─Test Scenario
     ├─Test Cases
     ├─Bug Report
-    ├─Summery Report
+    ├─Summary Report
+
+
+
 ├─ Automation/
 │  ├─ login.js
    ├─ logout.js
