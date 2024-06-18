@@ -66,7 +66,8 @@ install cypress using command
 easily run code in any cypress tool install cypress in VS code or any other IDE and make sure node.js is installed open a folder in VS Code and clone the project and run on your machine.
 
 ## Credentials
-N/A
+Id : sistiyak315@gmail.com
+password: 774583
 
 ## APIs Used
 N/A
@@ -77,5 +78,8 @@ N/A
 ## Technology Stack
 List and provide a brief overview of the technologies used in the project.
 
-- Node.js
+- Google sheet
+- Excel
+- Microsoft word
+- VS code editor
 - Other libraries/modules
