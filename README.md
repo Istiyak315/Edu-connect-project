@@ -1,4 +1,4 @@
-#Edu Connect
+# Edu Connect
 
 ## Introduction
 The Edu-Connect Application is the web application that aims to build a platform that connects students and educators with educational resources and tools to improve learning experiences.
